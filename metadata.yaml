@@ -1,0 +1,42 @@
+_repo: Fairies-Afield_39167
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hammond, Gertrude Demain
+    aliases:
+    - Hammond, G. M. D.
+    - Hammond, G. Demain
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '34646'
+    url: http://www.gutenberg.org/2009/agents/34646
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Molesworth, Mary Louisa Stewart
+    - Mrs. (Mary Louisa) Molesworth
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2012-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+tableOfContents: '"Ask the robin" -- A magic table -- The weather maiden -- The enchanted
+  trunks.'
+title: Fairies Afield
+url: http://www.gutenberg.org/ebooks/39167
