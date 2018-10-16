@@ -38,6 +38,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PZ'
 - !lcsh 'Fairy tales'
+- GITenberg
 tableOfContents: '"Ask the robin" -- A magic table -- The weather maiden -- The enchanted
   trunks.'
 title: Fairies Afield
